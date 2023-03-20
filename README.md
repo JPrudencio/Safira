@@ -1,11 +1,11 @@
 # 💎Safira
 
     
- Projeto API:   Mapeamento Setorial RMVALE
+ **Projeto API:**   Mapeamento Setorial RMVALE
 
 #
 
-Descrição do projeto:
+**Descrição do projeto:**
 
 Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento e análise de dados de improtação e exportação.
 
@@ -13,7 +13,7 @@ Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento
 
 #
 
-Integrantes:
+**Integrantes:**
 
 * Christopher Alexander Silva Leão
 
@@ -30,11 +30,29 @@ Integrantes:
 * Vinícius Gabriel dos Santos Pacheco
 
 
+
+#
+
+**Tecnologias e ferramentas utilizadas:**
+
+* Jira Software
+* GitHub
+* PowerBI
+* Comex Stat
+* Power Apps
+* 5W2H
+* SWOT
+
 # 
 
-🛫 SPRINT 1
+🛩 **SPRINT 1**
 
 Apresentação : 03/04/2023
+
+**descrever o que foi feito nesta sprint.**
+
+
+
 
 
 
