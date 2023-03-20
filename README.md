@@ -30,6 +30,11 @@ Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento
 * Vinícius Gabriel dos Santos Pacheco
 
 
+**P.O:** Joyce Prudêncio
+
+
+**SCRUM master:** Vinícius Pacheco 
+
 
 #
 
