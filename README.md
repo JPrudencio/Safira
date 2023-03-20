@@ -1,4 +1,4 @@
-# Safira
+# 💎Safira
 
     
  Projeto API:   Mapeamento Setorial RMVALE
@@ -30,5 +30,7 @@ Integrantes:
 * Vinícius Gabriel dos Santos Pacheco
 
 
+# 
 
+⇒ SPRINT 1
 
