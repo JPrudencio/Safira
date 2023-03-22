@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/127873477/226795734-c7f22782-4c8d-4336-bf05-6f6c01237565.png)
+# 💎 Safira
 
     
  **Projeto API:**   Mapeamento Setorial RMVALE
