@@ -65,13 +65,17 @@ Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento
 Apresentação : 03/04/2023
 
 
+**Objetivo:**
+
+
+**Descrição:**
 
 
 #
 
-📚 **Documentação:** 
+📚 **Documentação** 
 
-
+**Banco de dados:**
 
 
 
