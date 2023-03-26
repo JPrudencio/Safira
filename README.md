@@ -79,7 +79,9 @@ Apresentação : 03/04/2023
 
 http://comexstat.mdic.gov.br/pt/home
 
+[IMP_2021_2022_20230325.xlsx](https://github.com/JPrudencio/Safira/files/11070515/IMP_2021_2022_20230325.xlsx)
 
+[EXP_2021_2022_20230325.xlsx](https://github.com/JPrudencio/Safira/files/11070516/EXP_2021_2022_20230325.xlsx)
 
 
 
