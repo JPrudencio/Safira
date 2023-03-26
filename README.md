@@ -79,7 +79,6 @@ Apresentação : 03/04/2023
 
 http://comexstat.mdic.gov.br/pt/home
 
-http://comexstat.mdic.gov.br/pt/municipio/79090
 
 
 
