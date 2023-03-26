@@ -78,8 +78,8 @@ Apresentação : 03/04/2023
 **Banco de dados:**
 
 http://comexstat.mdic.gov.br/pt/home
-http://comexstat.mdic.gov.br/pt/municipio/79090
 
+http://comexstat.mdic.gov.br/pt/municipio/79090
 
 
 
