@@ -87,6 +87,3 @@ http://comexstat.mdic.gov.br/pt/home
 
 [EXP_2021_2022_20230325 (1).xlsx](https://github.com/JPrudencio/Safira/files/11070519/EXP_2021_2022_20230325.1.xlsx)
 
-[base de dados exportações - Atualizado.xlsx](https://github.com/JPrudencio/Safira/files/11084297/base.de.dados.exportacoes.-.Atualizado.xlsx)
-
-
