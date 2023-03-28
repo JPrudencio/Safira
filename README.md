@@ -39,6 +39,7 @@ Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento
 
 * Vinícius Gabriel dos Santos Pacheco
 
+* Yago de Freitas Martins
 
 **P.O:** Joyce Prudêncio
 
