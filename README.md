@@ -1,5 +1,4 @@
-# 💎 Safira
-
+# ![Imagem do WhatsApp de 2023-03-27 à(s) 19 35 15](https://user-images.githubusercontent.com/127873477/228641861-fd006d87-6ce2-4233-9aeb-2d166c0d4823.jpg)  Safira
 
 
 https://user-images.githubusercontent.com/127873477/227687361-440193e5-0ff9-47aa-b7db-3d59b94158bc.mp4
