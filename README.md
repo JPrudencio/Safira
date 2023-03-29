@@ -66,7 +66,8 @@ Apresentação : 03/04/2023
 
 
 **Objetivo:**
-
+Realizar a extração e análises dos dados  do Comex  stat , iniciar a estruturação da apresentação.
+Extruturar as ferramentas solicitadas.
 
 **Descrição:**
 
