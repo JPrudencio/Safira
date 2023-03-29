@@ -89,8 +89,6 @@ http://comexstat.mdic.gov.br/pt/home
 
 [EXP_2021_2022_20230325 (1).xlsx](https://github.com/JPrudencio/Safira/files/11070519/EXP_2021_2022_20230325.1.xlsx)
 
-[IMP_2021_2022_20230325 - Atualizada.xlsx](https://github.com/JPrudencio/Safira/files/11103015/IMP_2021_2022_20230325.-.Atualizada.xlsx)
-
-[EXP_2021_2022_20230325 - Atualizada.xlsx](https://github.com/JPrudencio/Safira/files/11103032/EXP_2021_2022_20230325.-.Atualizada.xlsx)
-
+[EXP_2021_2022_20230325.-.Atualizada.xlsx](https://github.com/JPrudencio/Safira/files/11106315/EXP_2021_2022_20230325.-.Atualizada.xlsx)
+[IMP_2021_2022_20230325.-.Atualizada.xlsx](https://github.com/JPrudencio/Safira/files/11106316/IMP_2021_2022_20230325.-.Atualizada.xlsx)
 
