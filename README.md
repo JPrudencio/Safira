@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/127873477/227687361-440193e5-0ff9-47aa
 
 **Descrição do projeto:**
 
-Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento e análise de dados de improtação e exportação.
+Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento e análise de dados de impoRtação e exportação.
 
 
 
@@ -66,12 +66,12 @@ Apresentação : 03/04/2023
 
 
 **Objetivo:**
-Realizar a extração e análises dos dados  do Comex  stat , iniciar a estruturação da apresentação.
-Estruturar as ferramentas solicitadas.
+Realizar a extração e análises dos dados  do Comex  stat , iniciar a estruturação da apresentação,
+utilizando as ferramentas solicitadas.
 
 **Descrição:**
-Iniciamos o projeto estruturando as ferramentas e assim atribuindo a equipe tarefas a serem e executadas para que fosse cumprida a solicitação do cliente. Com base nas informações fornecidas pelo cliente utilizamos o Comex stat como fonte de dados a serem analisadas, considerando os topicos indicados pelo mesmo filtramos os dados a serem apresentados.
-Realizamos a separação das cidades, cadeias produtivas, produtos mais comercializados nas exportações e importações da região da RMVale, comparando mês a mês dos anos de 2021 e 2022.
+Iniciamos o projeto estruturando as ferramentas, atribuindo à equipe tarefas a serem executadas, assim, com base nas informações fornecidas pelo cliente cumprirmos o que foi solicitado utilizando o Comex stat, como fonte de dados a serem analisadas, considerando os tópicos indicados, filtramos os dados a serem apresentados.
+Logo, realizamos a separação das cidades, das cadeias produtivas, dos produtos mais comercializados nas exportações e importações da região da RMVale, comparando mês a mês dos anos de 2021 e 2022.
 
 #
 
