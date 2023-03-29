@@ -70,7 +70,8 @@ Realizar a extração e análises dos dados  do Comex  stat , iniciar a estrutur
 Estruturar as ferramentas solicitadas.
 
 **Descrição:**
-
+Iniciamos o projeto estruturando as ferramentas e assim atribuindo a equipe tarefas a serem e executadas para que fosse cumprida a solicitação do cliente. Com base nas informações fornecidas pelo cliente utilizamos o Comex stat como fonte de dados a serem analisadas, considerando os topicos indicados pelo mesmo filtramos os dados a serem apresentados.
+Realizamos a separação das cidades, cadeias produtivas, produtos mais comercializados nas exportações e importações da região da RMVale, comparando mês a mês dos anos de 2021 e 2022.
 
 #
 
