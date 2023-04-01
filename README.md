@@ -46,7 +46,7 @@ Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento
 **SCRUM master:** Vinícius Pacheco 
 #
 
-[5W2H.xlsx](https://github.com/JPrudencio/Safira/files/11130168/5W2H.xlsx)
+[5W2H Finalizado.xlsx](https://github.com/JPrudencio/Safira/files/11130206/5W2H.Finalizado.xlsx)
 
 
 
