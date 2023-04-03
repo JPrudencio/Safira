@@ -93,3 +93,11 @@ http://comexstat.mdic.gov.br/pt/home
 
 [IMP_2021_2022_20230325.-.Atualizada.xlsx](https://github.com/JPrudencio/Safira/files/11106316/IMP_2021_2022_20230325.-.Atualizada.xlsx)
 
+[EXP Cadeia produtiva Top 10.xlsx](https://github.com/JPrudencio/Safira/files/11134765/EXP.Cadeia.produtiva.Top.10.xlsx)
+
+[IMP Cadeia produtiva Top 10.xlsx](https://github.com/JPrudencio/Safira/files/11134768/IMP.Cadeia.produtiva.Top.10.xlsx)
+
+[coordenadas geograficas.xlsx](https://github.com/JPrudencio/Safira/files/11134772/coordenadas.geograficas.xlsx)
+
+[IMP - Tabela Atualizada 02-04-2023.xlsx](https://github.com/JPrudencio/Safira/files/11134778/IMP.-.Tabela.Atualizada.02-04-2023.xlsx)
+
