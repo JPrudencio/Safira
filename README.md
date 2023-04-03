@@ -51,7 +51,8 @@ Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento
 
 [5W2H Finalizado.xlsx](https://github.com/JPrudencio/Safira/files/11130206/5W2H.Finalizado.xlsx)
 
-![image](https://user-images.githubusercontent.com/127873477/229306851-45dae229-5a9f-4afd-806d-51309e9a2263.png)
+![image](https://user-images.githubusercontent.com/127873477/229388929-207b1bff-ef79-4aa5-86a6-ecea73b55fc2.png)
+
 
 #
 
@@ -87,14 +88,6 @@ Logo, realizamos a separação das cidades, das cadeias produtivas, dos produtos
 **Banco de dados:**
 
 http://comexstat.mdic.gov.br/pt/home
-
-[IMP_2021_2022_20230325.xlsx](https://github.com/JPrudencio/Safira/files/11070515/IMP_2021_2022_20230325.xlsx)
-
-[IMP_2021_2022_20230325 (1).xlsx](https://github.com/JPrudencio/Safira/files/11070521/IMP_2021_2022_20230325.1.xlsx)
-
-[EXP_2021_2022_20230325.xlsx](https://github.com/JPrudencio/Safira/files/11070516/EXP_2021_2022_20230325.xlsx)
-
-[EXP_2021_2022_20230325 (1).xlsx](https://github.com/JPrudencio/Safira/files/11070519/EXP_2021_2022_20230325.1.xlsx)
 
 [EXP_2021_2022_20230325.-.Atualizada.xlsx](https://github.com/JPrudencio/Safira/files/11106315/EXP_2021_2022_20230325.-.Atualizada.xlsx)
 
