@@ -51,7 +51,7 @@ Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento
 
 [5W2H Finalizado.xlsx](https://github.com/JPrudencio/Safira/files/11130206/5W2H.Finalizado.xlsx)
 
-![image](https://user-images.githubusercontent.com/127873477/229388929-207b1bff-ef79-4aa5-86a6-ecea73b55fc2.png)
+![image](https://user-images.githubusercontent.com/127873477/229389172-0056a40b-d05d-44a8-82f3-8b70eb3ad45d.png)
 
 
 #
