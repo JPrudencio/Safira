@@ -47,12 +47,6 @@ Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento
 
 
 **SCRUM master:** Vinícius Pacheco 
-#
-
-[5W2H Finalizado.xlsx](https://github.com/JPrudencio/Safira/files/11130206/5W2H.Finalizado.xlsx)
-
-![image](https://user-images.githubusercontent.com/127873477/229389172-0056a40b-d05d-44a8-82f3-8b70eb3ad45d.png)
-
 
 #
 
@@ -80,6 +74,21 @@ utilizando as ferramentas solicitadas.
 **Descrição:**
 Iniciamos o projeto estruturando as ferramentas, atribuindo à equipe tarefas a serem executadas, assim, com base nas informações fornecidas pelo cliente cumprirmos o que foi solicitado utilizando o Comex stat, como fonte de dados a serem analisadas, considerando os tópicos indicados, filtramos os dados a serem apresentados.
 Logo, realizamos a separação das cidades, das cadeias produtivas, dos produtos mais comercializados nas exportações e importações da região da RMVale, comparando mês a mês dos anos de 2021 e 2022.
+
+#
+
+[5W2H Finalizado.xlsx](https://github.com/JPrudencio/Safira/files/11130206/5W2H.Finalizado.xlsx)
+
+![image](https://user-images.githubusercontent.com/127873477/229389172-0056a40b-d05d-44a8-82f3-8b70eb3ad45d.png)
+
+#
+
+🚗 **SPRINT 2**
+
+Apresentação: 24/04/2023
+
+**Objetivo:**
+Estruturar as relações de dados, atualizar os gráficos do dashboard com  os dados analizados; Mapear os principais CNPJ's da da região e correlacionar com os dados do CNAE; Atualizar  o 5W2H e iniciar a estruturação do SWOT.
 
 #
 
