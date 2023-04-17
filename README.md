@@ -93,6 +93,12 @@ Estruturar as relações de dados, atualizar os gráficos do dashboard com  os d
 
 #
 
+
+
+[5W2H - Finalizado 2ª Sprint.xlsx](https://github.com/JPrudencio/Safira/files/11256573/5W2H.-.Finalizado.2.Sprint.xlsx)
+
+#
+
 📚 **Documentação** 
 
 **Banco de dados:**
