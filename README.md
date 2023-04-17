@@ -77,9 +77,10 @@ Logo, realizamos a separação das cidades, das cadeias produtivas, dos produtos
 
 #
 
-[5W2H Finalizado.xlsx](https://github.com/JPrudencio/Safira/files/11130206/5W2H.Finalizado.xlsx)
+![image](https://user-images.githubusercontent.com/128006146/232626192-2edd18ad-12b0-4dc9-b9bb-1384c033ecb9.png)
 
-![image](https://user-images.githubusercontent.com/127873477/229389172-0056a40b-d05d-44a8-82f3-8b70eb3ad45d.png)
+
+[5W2H - Finalizado 1ª Sprint.xlsx](https://github.com/JPrudencio/Safira/files/11256404/5W2H.-.Finalizado.1.Sprint.xlsx)
 
 #
 
