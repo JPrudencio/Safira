@@ -93,6 +93,7 @@ Estruturar as relações de dados, atualizar os gráficos do dashboard com  os d
 
 #
 
+![image](https://user-images.githubusercontent.com/128006146/234132534-4aa334b4-d22f-4002-bb40-e02a7d7881f5.png)
 
 
 [5W2H - Finalizado 2ª Sprint.xlsx](https://github.com/JPrudencio/Safira/files/11256573/5W2H.-.Finalizado.2.Sprint.xlsx)
