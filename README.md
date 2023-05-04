@@ -56,7 +56,6 @@ Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento
 * GitHub
 * PowerBI
 * Comex Stat
-* Power Apps
 * 5W2H
 * SWOT
 
