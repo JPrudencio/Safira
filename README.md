@@ -99,6 +99,15 @@ Estruturar as relações de dados, atualizar os gráficos do dashboard com  os d
 
 #
 
+🎢**SPRINT 3**
+
+Apresentação: 29/05/2023
+
+**Objetivo:**
+Finalizar as estruturas de dados; unir os dashboards das Sprints antigas e reformular com dados novos; organizar as ramificações do produto escolhido com base nas cadeias onde se ramifica; atualizar o 5W2H e finalizar a estrutura do SWOT do grupo/empresa.
+
+#
+
 📚 **Documentação** 
 
 **Banco de dados:**
@@ -119,3 +128,4 @@ http://comexstat.mdic.gov.br/pt/home
 
 https://app.powerbi.com/links/lpanDl7nBj?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6144f72f-3497-4e47-94d5-6566f9b78b10
 
+https://app.powerbi.com/datahub/datasets/bdcc9909-b894-475d-9765-bc02f83d624d?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
