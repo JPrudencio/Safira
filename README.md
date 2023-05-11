@@ -128,4 +128,4 @@ http://comexstat.mdic.gov.br/pt/home
 
 https://app.powerbi.com/links/lpanDl7nBj?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6144f72f-3497-4e47-94d5-6566f9b78b10
 
-https://app.powerbi.com/datahub/datasets/bdcc9909-b894-475d-9765-bc02f83d624d?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+https://app.powerbi.com/links/KiMIu0_MSa?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
