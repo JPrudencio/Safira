@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/127873477/229388766-518b2670-de80-4716
 
 **Descrição do projeto:**
 
-Mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento e análise de dados de impoRtação e exportação.
+Mapear e avaliar as cadeias produtivas da RM VALE, por meio de coleta, tratamento e análise de dados de importação e exportação.
 
 
 
