@@ -104,7 +104,7 @@ Estruturar as relações de dados, atualizar os gráficos do dashboard com  os d
 Apresentação: 29/05/2023
 
 **Objetivo:**
-Finalizar as estruturas de dados; unir os dashboards das Sprints antigas e reformular com dados novos; organizar as ramificações do produto escolhido com base nas cadeias onde se ramifica; atualizar o 5W2H e finalizar a estrutura do SWOT do grupo/empresa.
+Finalizar as estruturas de dados; unir os dashboards das Sprints anteriores e reformular com dados novos; organizar as ramificações do produto escolhido com base nas cadeias onde se ramifica; atualizar o 5W2H e finalizar a estrutura do SWOT do grupo/empresa.
 
 #
 
