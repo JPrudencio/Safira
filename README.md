@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/127873477/229388766-518b2670-de80-4716
 #
 
     
- **Projeto API:**   Mapeamento Setorial RMVALE
+ **Projeto API:**   Mapeamento Setorial RM VALE
 
 
 
@@ -133,6 +133,6 @@ http://comexstat.mdic.gov.br/pt/home
 
 [IMP - Tabela Atualizada 02-04-2023.xlsx](https://github.com/JPrudencio/Safira/files/11134778/IMP.-.Tabela.Atualizada.02-04-2023.xlsx)
 
-https://app.powerbi.com/links/lpanDl7nBj?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6144f72f-3497-4e47-94d5-6566f9b78b10
+**DASHBOARD SPRINT 1**: https://app.powerbi.com/links/lpanDl7nBj?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6144f72f-3497-4e47-94d5-6566f9b78b10
 
-https://app.powerbi.com/links/KiMIu0_MSa?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+**DASHBOARD SPRINT 2**:https://app.powerbi.com/links/KiMIu0_MSa?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
