@@ -76,7 +76,7 @@ Logo, realizamos a separação das cidades, das cadeias produtivas, dos produtos
 
 #
 
-![image](https://user-images.githubusercontent.com/128006146/232626192-2edd18ad-12b0-4dc9-b9bb-1384c033ecb9.png)
+![image](https://github.com/JPrudencio/Safira/assets/128006146/9a59ab9b-c4c7-4c9e-9dca-5c52b11ea712)
 
 
 [5W2H - Finalizado 1ª Sprint.xlsx](https://github.com/JPrudencio/Safira/files/11256404/5W2H.-.Finalizado.1.Sprint.xlsx)
