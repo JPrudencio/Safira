@@ -118,6 +118,8 @@ Apresentação: 13/06/2023
 
 **Objetivo:**
 
+#
+#
 
 📚 **Documentação** 
 
@@ -125,7 +127,7 @@ Apresentação: 13/06/2023
 
 **SWOT da Cadeia**
 
-![MicrosoftTeams-image](https://github.com/JPrudencio/Safira/assets/128006146/be83e039-b488-4c59-8b25-b58a7122b302)
+![image](https://github.com/JPrudencio/Safira/assets/128006146/d8691c7a-9fb5-410d-a3d9-43d335483446)
 
 http://comexstat.mdic.gov.br/pt/home
 
