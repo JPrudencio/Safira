@@ -119,9 +119,6 @@ Apresentação: 13/06/2023
 **Objetivo:**
 
 #
-<p align="center">
-  <img width="460" height="300" src="![giphy](https://github.com/JPrudencio/Safira/assets/128006146/5775ef7e-3932-41ed-a3dd-fc329cd20bf3)">
-</p>
 #
 
 📚 _**Documentação**_ 
