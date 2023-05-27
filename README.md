@@ -125,8 +125,14 @@ Apresentação: 13/06/2023
 
 **Banco de dados:**
 
+
 **SWOT da Cadeia**
 ![image](https://github.com/JPrudencio/Safira/assets/128006146/63d97f22-0fe8-4c04-b267-b36f6b85a076)
+
+**Mapa Mental da Cadeia Petrolífera**
+![image](https://github.com/JPrudencio/Safira/assets/128006146/b12e6164-e83a-451d-8305-8fdb9e58cfdf)
+
+**Fontes e Sites:**
 
 http://comexstat.mdic.gov.br/pt/home
 
