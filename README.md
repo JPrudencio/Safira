@@ -106,7 +106,7 @@ Apresentação: 29/05/2023
 **Objetivo:**
 Finalizar as estruturas de dados; unir os dashboards das Sprints anteriores e reformular com dados novos; organizar as ramificações do produto escolhido com base nas cadeias onde se ramifica; atualizar o 5W2H e finalizar a estrutura do SWOT do grupo/empresa.
 
-![image](https://github.com/JPrudencio/Safira/assets/128006146/99d2e565-6f1f-4cd2-bc5b-dad051f25d82)
+![image](https://github.com/JPrudencio/Safira/assets/128006146/d8691c7a-9fb5-410d-a3d9-43d335483446)
 
 [5W2H - Finalizado 3ª Sprint.xlsx](https://github.com/JPrudencio/Safira/files/11537614/5W2H.-.Finalizado.3.Sprint.xlsx)
 
@@ -126,8 +126,6 @@ Apresentação: 13/06/2023
 **Banco de dados:**
 
 **SWOT da Cadeia**
-
-![image](https://github.com/JPrudencio/Safira/assets/128006146/d8691c7a-9fb5-410d-a3d9-43d335483446)
 
 http://comexstat.mdic.gov.br/pt/home
 
