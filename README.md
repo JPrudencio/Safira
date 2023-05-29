@@ -126,10 +126,12 @@ Apresentação: 13/06/2023
 **Banco de dados:**
 
 
-**SWOT da Cadeia**
-![image](https://github.com/JPrudencio/Safira/assets/128006146/63d97f22-0fe8-4c04-b267-b36f6b85a076)
 
-**Mapa Mental da Cadeia Petrolífera**
+**SWOT da Cadeia**
+
+![Imagem do WhatsApp de 2023-05-29 à(s) 11 13 56](https://github.com/JPrudencio/Safira/assets/127873477/9fa4c1c6-bf2e-41ce-9211-ac750d58739d)
+
+**Mapa Mental da Cadeia Petrolífer**
 ![image](https://github.com/JPrudencio/Safira/assets/128006146/b12e6164-e83a-451d-8305-8fdb9e58cfdf)
 
 **Fontes e Sites:**
