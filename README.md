@@ -136,6 +136,10 @@ Apresentação: 13/06/2023
 
 http://comexstat.mdic.gov.br/pt/home
 
+https://concla.ibge.gov.br/busca-online-cnae.html
+
+https://agemvale.sp.gov.br/
+
 [EXP_2021_2022_20230325.-.Atualizada.xlsx](https://github.com/JPrudencio/Safira/files/11106315/EXP_2021_2022_20230325.-.Atualizada.xlsx)
 
 [IMP_2021_2022_20230325.-.Atualizada.xlsx](https://github.com/JPrudencio/Safira/files/11106316/IMP_2021_2022_20230325.-.Atualizada.xlsx)
@@ -151,3 +155,6 @@ http://comexstat.mdic.gov.br/pt/home
 **DASHBOARD SPRINT 1**: https://app.powerbi.com/links/lpanDl7nBj?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6144f72f-3497-4e47-94d5-6566f9b78b10
 
 **DASHBOARD SPRINT 2**:https://app.powerbi.com/links/KiMIu0_MSa?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+
+**DASHBOARD SPRINT 3** :  https://app.powerbi.com/links/QhGrUDgAcN?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+
