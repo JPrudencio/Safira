@@ -27,23 +27,23 @@ Mapear e avaliar as cadeias produtivas da RM VALE, por meio de coleta, tratament
 
 **Integrantes:**
 
-* Christopher Alexander Silva Leão
+* Christopher Alexander Silva Leão 👱🏻‍♂️
 
-* Dener da Silva Barros
+* Dener da Silva Barros 👨🏿‍🦲
 
-* Graziele Cristina de Almeida Santos
+* Graziele Cristina de Almeida Santos 👱🏻‍♀️
 
-* Helloísa Chinaide de Deus Reis
+* Helloísa Chinaide de Deus Reis 👩🏻
 
-* Joyce Prudêncio
+* Joyce Prudêncio 👩🏻‍🦱
 
-* Quedma Fonseca
+* Quedma Fonseca 👧🏻
 
-* Vinícius Gabriel dos Santos Pacheco
+* Vinícius Gabriel dos Santos Pacheco 🧑🏻
 
-* Yago de Freitas Martins
+* Yago de Freitas Martins 👱‍♂️
 
-**P.O:** Joyce Prudêncio
+**P.O.:** Joyce Prudêncio 
 
 
 **SCRUM master:** Vinícius Pacheco 
@@ -58,6 +58,7 @@ Mapear e avaliar as cadeias produtivas da RM VALE, por meio de coleta, tratament
 * Comex Stat
 * 5W2H
 * SWOT
+* Canva
 
 # 
 
