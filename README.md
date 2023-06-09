@@ -1,3 +1,4 @@
+![Cópia de Cópia de Design sem nome (1)](https://github.com/JPrudencio/Safira/assets/127873477/17627417-83a6-427c-b3bc-b8bd1b08d21e)
 
 
 
@@ -29,10 +30,11 @@ a otimizar suas opre  logísticas, reduzir custs e melhorar a eficiência.
 Somos uma empresa que trabalha em estreita colaboração com seus clientes para entender e atender suas necessidades específicas  desenvolvendo soluções sob medida.
 Utilizamos as tendencias mais recentes  de tecnologia do setor logístico, permitindo que os clientes se mantenha  competitivos.
 
-
-
+![SAFIRA (1)](https://github.com/JPrudencio/Safira/assets/127873477/2e3f25e5-5d0a-4523-98e6-62f4cc3da780)
 
 #
+
+
 
 #  Contexto e objetivo do projeto
 
@@ -42,7 +44,8 @@ Nós, alunos do 1º semestr do curso de Logística da  Faculdade de Tecnologia J
 O principal objetivo do proheto Safira Log é  mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento e análise de dados de impoprtação e exportação, e  assim proporcionar ao cliente um  acesso rápido e prático das informações da região  e assim auxiliálo no possivel investimento .
 
 #
-                                                                                                                                                                      
+     
+     
 #  Metodologias utilizadas
 
 A Safira Log  utiliza uma variedade de tecnologias para auxiliar seus clientes a melhorar a  tomada de decisão em seus investimentos  de acordo com a análises específicas e fundamentadas.
@@ -51,6 +54,7 @@ A Safira Log  utiliza uma variedade de tecnologias para auxiliar seus clientes a
 
 
 #
+
 
 #  Plano de entrega
 
@@ -74,20 +78,54 @@ A Safira Log  utiliza uma variedade de tecnologias para auxiliar seus clientes a
 
 
 
+#
+
+
 # Resultado das análises
 
 
+**Sprint 1**
 
 
 
-**SWOT da Cadeia**
+![Cópia de Cópia de Design sem nome](https://github.com/JPrudencio/Safira/assets/127873477/3e8422ff-915b-4d60-8fff-25b4e6273378)
+
+
+
+
+**Sprint 2**
+
+
+![Cópia de Cópia de Cópia de Design sem nome](https://github.com/JPrudencio/Safira/assets/127873477/932c4153-e225-4008-8058-04a1544aaa6d)
+
+
+**Sprint 3**
+
+![Cópia de Cópia de Cópia de Design sem nome (1)](https://github.com/JPrudencio/Safira/assets/127873477/79e8e728-7c72-4cd2-ac6b-e20b246cf236)
+
+
+
+**Sprint  4**
+
+![Cópia de Cópia de Cópia de Design sem nome (2)](https://github.com/JPrudencio/Safira/assets/127873477/0aa26850-2eb9-4a35-ae0c-eaddc90bd23a)
+
+
+
+**SWOT da cadeia petrolífera**
 
 ![Imagem do WhatsApp de 2023-05-29 à(s) 11 13 56](https://github.com/JPrudencio/Safira/assets/127873477/9fa4c1c6-bf2e-41ce-9211-ac750d58739d)
 
-**Mapa Mental da Cadeia Petrolífer**
+
+**Mapa mental da cadeia  petrolífera**
+
+
 ![image](https://github.com/JPrudencio/Safira/assets/128006146/b12e6164-e83a-451d-8305-8fdb9e58cfdf)
 
 
+
+
+
+#
 
 # Cronograma
 
@@ -99,6 +137,7 @@ A Safira Log  utiliza uma variedade de tecnologias para auxiliar seus clientes a
 
 
 #
+
 
 #  Documentação
 
@@ -129,6 +168,7 @@ https://agemvale.sp.gov.br/
 **DASHBOARD SPRINT 3** :  https://app.powerbi.com/groups/me/reports/c0e397c4-56b7-400f-bba4-b5ec1e4d4b48/ReportSectionc0647d7f736a574bb048?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
 
 
+#
 
 
 #  Autores
