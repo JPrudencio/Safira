@@ -174,8 +174,7 @@ https://agemvale.sp.gov.br/
 #  Autores
 
 
-![Blue Illustration Simple Comparison T-Chart](https://github.com/JPrudencio/Safira/assets/127873477/42e5a43c-5552-417a-a53f-640c0ffa8acb)
-
+![Blue Illustration Simple Comparison T-Chart (1)](https://github.com/JPrudencio/Safira/assets/127873477/d9131ab7-2a81-45b3-b830-af47969ca920)
 
 
 
