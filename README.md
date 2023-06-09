@@ -173,26 +173,8 @@ https://agemvale.sp.gov.br/
 
 #  Autores
 
-* Christopher Alexander Silva Leão 👱🏻‍♂️
 
-* Dener da Silva Barros 👨🏿‍🦲
-
-* Graziele Cristina de Almeida Santos 👱🏻‍♀️
-
-* Helloísa Chinaide de Deus Reis 👩🏻
-
-* Joyce Prudêncio 👩🏻‍🦱
-
-* Quedma Fonseca 👧🏻
-
-* Vinícius Gabriel dos Santos Pacheco 🧑🏻
-
-* Yago de Freitas Martins 👱‍♂️
-
-**P.O.:** Joyce Prudêncio 
-
-**SCRUM master:** Vinícius Pacheco 
-
+![Blue Illustration Simple Comparison T-Chart](https://github.com/JPrudencio/Safira/assets/127873477/42e5a43c-5552-417a-a53f-640c0ffa8acb)
 
 
 
