@@ -25,10 +25,10 @@
 #  ![228641861-fd006d87-6ce2-4233-9aeb-2d166c0d4823](https://github.com/JPrudencio/Safira/assets/127873477/470ddb11-734a-49b4-abb5-cf4769d5dbba) Históra da empresa
 
 
-A Safira Log  é uma empresa de consultoria em logística fundada em 2023 por um grupo de profissi  que esta startando  no setor.  A empresa tem como objetivo auxiliar organizações 
-a otimizar suas opre  logísticas, reduzir custs e melhorar a eficiência.
+A Safira Log  é uma empresa de consultoria em logística fundada em 2023 por um grupo de profissionais  que esta iniciando  no setor.  A empresa tem como objetivo auxiliar organizações 
+a otimizar suas operações  logísticas, reduzir custos e melhorar a eficiência.
 Somos uma empresa que trabalha em estreita colaboração com seus clientes para entender e atender suas necessidades específicas  desenvolvendo soluções sob medida.
-Utilizamos as tendencias mais recentes  de tecnologia do setor logístico, permitindo que os clientes se mantenha  competitivos.
+Utilizamos as tendências mais recentes  de tecnologia do setor logístico, permitindo que os clientes se mantenham  competitivos.
 
 ![SAFIRA (1)](https://github.com/JPrudencio/Safira/assets/127873477/2e3f25e5-5d0a-4523-98e6-62f4cc3da780)
 
@@ -40,8 +40,8 @@ Utilizamos as tendencias mais recentes  de tecnologia do setor logístico, permi
 
 
 
-Nós, alunos do 1º semestr do curso de Logística da  Faculdade de Tecnologia Jessen Vidal, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística.
-O principal objetivo do proheto Safira Log é  mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento e análise de dados de impoprtação e exportação, e  assim proporcionar ao cliente um  acesso rápido e prático das informações da região  e assim auxiliálo no possivel investimento .
+Nós, alunos do 1º semestre do curso de Logística da  Faculdade de Tecnologia Jessen Vidal, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística.
+O principal objetivo do projeto Safira Log é  mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento e análise de dados de importação e exportação, e  assim proporcionar ao cliente um  acesso rápido e prático das informações da região  e assim auxiliá-lo no possível investimento .
 
 #
      
