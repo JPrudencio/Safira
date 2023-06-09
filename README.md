@@ -1,106 +1,64 @@
-# 
 
 
-
-
-
-
-# **Índice:*
-#
-
-* História 
-* 
-
-
-
-
-https://user-images.githubusercontent.com/127873477/229388766-518b2670-de80-4716-bf22-ddac4349c5d5.mp4
 
 
 
 
 #
 
-  
- **Projeto API:**   Mapeamento Setorial RM VALE
+# **Índice:**
 
+
+* História da empresa
+*  Contexto e objetivo do projeto
+*  Metodologias utilizadas
+*  Plano de entrega
+*  Resultados das análises
+*  Cronograma
+*  Documentação
+*  Autores
 
 
 #
 
-**Descrição do projeto:**
+#  ![228641861-fd006d87-6ce2-4233-9aeb-2d166c0d4823](https://github.com/JPrudencio/Safira/assets/127873477/470ddb11-734a-49b4-abb5-cf4769d5dbba) Históra da empresa
 
-Mapear e avaliar as cadeias produtivas da RM VALE, por meio de coleta, tratamento e análise de dados de importação e exportação.
 
+A Safira Log  é uma empresa de consultoria em logística fundada em 2023 por um grupo de profissi  que esta startando  no setor.  A empresa tem como objetivo auxiliar organizações 
+a otimizar suas opre  logísticas, reduzir custs e melhorar a eficiência.
+Somos uma empresa que trabalha em estreita colaboração com seus clientes para entender e atender suas necessidades específicas  desenvolvendo soluções sob medida.
+Utilizamos as tendencias mais recentes  de tecnologia do setor logístico, permitindo que os clientes se mantenha  competitivos.
+
+
+![SAFIRA (1)](https://github.com/JPrudencio/Safira/assets/127873477/f67b713e-901b-4090-b8a2-705d18515fda)
 
 
 #
 
-**Integrantes:**
-
-* Christopher Alexander Silva Leão 👱🏻‍♂️
-
-* Dener da Silva Barros 👨🏿‍🦲
-
-* Graziele Cristina de Almeida Santos 👱🏻‍♀️
-
-* Helloísa Chinaide de Deus Reis 👩🏻
-
-* Joyce Prudêncio 👩🏻‍🦱
-
-* Quedma Fonseca 👧🏻
-
-* Vinícius Gabriel dos Santos Pacheco 🧑🏻
-
-* Yago de Freitas Martins 👱‍♂️
-
-**P.O.:** Joyce Prudêncio 
+#  Contexto e objetivo do projeto
 
 
-**SCRUM master:** Vinícius Pacheco 
+
+Nós, alunos do 1º semestr do curso de Logística da  Faculdade de Tecnologia Jessen Vidal, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística.
+O principal objetivo do proheto Safira Log é  mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento e análise de dados de impoprtação e exportação, e  assim proporcionar ao cliente um  acesso rápido e prático das informações da região  e assim auxiliálo no possivel investimento .
+
+#
+                                                                                                                                                                      
+#  Metodologias utilizadas
+
+A Safira Log  utiliza uma variedade de tecnologias para auxiliar seus clientes a melhorar a  tomada de decisão em seus investimentos  de acordo com a análises específicas e fundamentadas.
+
+![Design sem nome](https://github.com/JPrudencio/Safira/assets/127873477/8021783d-7938-405f-9970-28a7b866940c)
+
 
 #
 
-**Tecnologias e ferramentas utilizadas:**
+#  Plano de entrega
 
-* Jira Software
-* GitHub
-* PowerBI
-* Comex Stat
-* 5W2H
-* SWOT
-* Canva
-
-# 
-
-🛩 **SPRINT 1**
-
-Apresentação : 03/04/2023
-
-
-**Objetivo:**
-Realizar a extração e análises dos dados  do Comex  stat , iniciar a estruturação da apresentação,
-utilizando as ferramentas solicitadas.
-
-**Descrição:**
-Iniciamos o projeto estruturando as ferramentas, atribuindo à equipe tarefas a serem executadas, assim, com base nas informações fornecidas pelo cliente cumprirmos o que foi solicitado utilizando o Comex stat, como fonte de dados a serem analisadas, considerando os tópicos indicados, filtramos os dados a serem apresentados.
-Logo, realizamos a separação das cidades, das cadeias produtivas, dos produtos mais comercializados nas exportações e importações da região da RMVale, comparando mês a mês dos anos de 2021 e 2022.
-
-#
 
 ![image](https://github.com/JPrudencio/Safira/assets/128006146/9a59ab9b-c4c7-4c9e-9dca-5c52b11ea712)
 
-
 [5W2H - Finalizado 1ª Sprint.xlsx](https://github.com/JPrudencio/Safira/files/11256404/5W2H.-.Finalizado.1.Sprint.xlsx)
-
-#
-
-🚗 **SPRINT 2**
-
-Apresentação: 24/04/2023
-
-**Objetivo:**
-Estruturar as relações de dados, atualizar os gráficos do dashboard com  os dados analizados; Mapear os principais CNPJ's da da região e correlacionar com os dados do CNAE; Atualizar  o 5W2H e iniciar a estruturação do SWOT.
 
 #
 
@@ -111,33 +69,15 @@ Estruturar as relações de dados, atualizar os gráficos do dashboard com  os d
 
 #
 
-🎢**SPRINT 3**
-
-Apresentação: 29/05/2023
-
-**Objetivo:**
-Finalizar as estruturas de dados; unir os dashboards das Sprints anteriores e reformular com dados novos; organizar as ramificações do produto escolhido com base nas cadeias onde se ramifica; atualizar o 5W2H e finalizar a estrutura do SWOT do grupo/empresa.
-
 ![image](https://github.com/JPrudencio/Safira/assets/128006146/d8691c7a-9fb5-410d-a3d9-43d335483446)
 
 [5W2H - Finalizado 3ª Sprint.xlsx](https://github.com/JPrudencio/Safira/files/11537614/5W2H.-.Finalizado.3.Sprint.xlsx)
 
-#
-
-🏆**SPRINT 4**
-
-Apresentação: 13/06/2023
-
-**Objetivo:**
 
 
-#
-#
+# Resultado das análises
 
 
-📚 _**Documentação**_ 
-
-**Banco de dados:**
 
 
 
@@ -148,7 +88,22 @@ Apresentação: 13/06/2023
 **Mapa Mental da Cadeia Petrolífer**
 ![image](https://github.com/JPrudencio/Safira/assets/128006146/b12e6164-e83a-451d-8305-8fdb9e58cfdf)
 
-**Fontes e Sites:**
+
+
+# Cronograma
+
+
+![Cópia de Design sem nome (1)](https://github.com/JPrudencio/Safira/assets/127873477/251a2f46-537a-43b8-b4d6-3e6b761d9478)
+
+
+
+
+
+#
+
+#  Documentação
+
+Para melhor entendimento  seguem os links  dos sites e planilhas utilizadas         
 
 http://comexstat.mdic.gov.br/pt/home
 
@@ -173,5 +128,41 @@ https://agemvale.sp.gov.br/
 **DASHBOARD SPRINT 2**:https://app.powerbi.com/links/KiMIu0_MSa?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 
 **DASHBOARD SPRINT 3** :  https://app.powerbi.com/groups/me/reports/c0e397c4-56b7-400f-bba4-b5ec1e4d4b48/ReportSectionc0647d7f736a574bb048?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
+
+
+
+
+#  Autores
+
+* Christopher Alexander Silva Leão 👱🏻‍♂️
+
+* Dener da Silva Barros 👨🏿‍🦲
+
+* Graziele Cristina de Almeida Santos 👱🏻‍♀️
+
+* Helloísa Chinaide de Deus Reis 👩🏻
+
+* Joyce Prudêncio 👩🏻‍🦱
+
+* Quedma Fonseca 👧🏻
+
+* Vinícius Gabriel dos Santos Pacheco 🧑🏻
+
+* Yago de Freitas Martins 👱‍♂️
+
+**P.O.:** Joyce Prudêncio 
+
+**SCRUM master:** Vinícius Pacheco 
+
+
+
+
+
+
+
+
+
+
+
 
 
