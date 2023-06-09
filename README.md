@@ -30,7 +30,6 @@ Somos uma empresa que trabalha em estreita colaboração com seus clientes para 
 Utilizamos as tendencias mais recentes  de tecnologia do setor logístico, permitindo que os clientes se mantenha  competitivos.
 
 
-![SAFIRA (1)](https://github.com/JPrudencio/Safira/assets/127873477/f67b713e-901b-4090-b8a2-705d18515fda)
 
 
 #
