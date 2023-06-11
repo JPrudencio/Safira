@@ -40,9 +40,7 @@ Utilizamos as tendências mais recentes  de tecnologia do setor logístico, perm
 
 
 
-Nós, alunos do 1º semestre do curso de Logística da  Faculdade de Tecnologia Jessen Vidal, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística.
-O principal objetivo do projeto Safira Log é  mapear e avaliar as cadeias produtivas da RMVALE, por meio de coleta, tratamento e análise de dados de importação e exportação, e  assim proporcionar ao cliente um  acesso rápido e prático das informações da região  e assim auxiliá-lo no possível investimento .
-
+Nós, alunos do 1º semestre do curso de Logística da Faculdade de Tecnologia Jessen Vidal, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística. O principal objetivo do projeto é identificar as cadeias produtivas que estão presentes na rmvale e indentificar os modais utilizados para o transporte dos produtos e mapear as mesmas por meio de coleta, tratamento e análise de dados de importação e exportação. assim proporcionando ao cliente um acesso rápido e prático das informações da região e assim auxiliá-lo no possível investimento .
 #
      
      
