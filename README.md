@@ -74,7 +74,11 @@ A Safira Log  utiliza uma variedade de tecnologias para auxiliar seus clientes a
 
 [5W2H - Finalizado 3ª Sprint.xlsx](https://github.com/JPrudencio/Safira/files/11537614/5W2H.-.Finalizado.3.Sprint.xlsx)
 
+#
 
+![image](https://github.com/JPrudencio/Safira/assets/128006146/db013fce-7cc8-474d-beda-08ec25947250)
+
+[5W2H - Finalizado 4ª Sprint.xlsx](https://github.com/JPrudencio/Safira/files/11728762/5W2H.-.Finalizado.4.Sprint.xlsx)
 
 #
 
