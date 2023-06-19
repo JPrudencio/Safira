@@ -145,11 +145,11 @@ A Safira Log  utiliza uma variedade de tecnologias para auxiliar seus clientes a
 
 Para melhor entendimento  seguem os links  dos sites e planilhas utilizadas         
 
-http://comexstat.mdic.gov.br/pt/home
+<a href="http://comexstat.mdic.gov.br/pt/home"> ComexStat  </a>
 
-https://concla.ibge.gov.br/busca-online-cnae.html
+<a href="https://concla.ibge.gov.br/busca-online-cnae.html"> IBGE  </a>
 
-https://agemvale.sp.gov.br/
+<a href="https://agemvale.sp.gov.br/"> Agemvale  </a>
 
 [EXP_2021_2022_20230325.-.Atualizada.xlsx](https://github.com/JPrudencio/Safira/files/11106315/EXP_2021_2022_20230325.-.Atualizada.xlsx)
 
@@ -163,11 +163,12 @@ https://agemvale.sp.gov.br/
 
 [IMP - Tabela Atualizada 02-04-2023.xlsx](https://github.com/JPrudencio/Safira/files/11134778/IMP.-.Tabela.Atualizada.02-04-2023.xlsx)
 
-**DASHBOARD SPRINT 1**: https://app.powerbi.com/links/lpanDl7nBj?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6144f72f-3497-4e47-94d5-6566f9b78b10
+**DASHBOARD SPRINT 1**: <a href="https://app.powerbi.com/links/lpanDl7nBj?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=6144f72f-3497-4e47-94d5-6566f9b78b10"> Power BI  </a>
 
-**DASHBOARD SPRINT 2**:https://app.powerbi.com/links/KiMIu0_MSa?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+**DASHBOARD SPRINT 2**:<a href="https://app.powerbi.com/links/KiMIu0_MSa?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"> Power BI  </a>
 
-**DASHBOARD SPRINT 3** :  https://app.powerbi.com/groups/me/reports/c0e397c4-56b7-400f-bba4-b5ec1e4d4b48/ReportSectionc0647d7f736a574bb048?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
+**DASHBOARD SPRINT 3** :  <a href="https://app.powerbi.com/groups/me/reports/c0e397c4-56b7-400f-bba4-b5ec1e4d4b48/ReportSectionc0647d7f736a574bb048?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi"> Power BI  </a>
+
 
 
 #
